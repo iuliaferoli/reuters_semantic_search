@@ -1,5 +1,24 @@
 # reuters_semantic_search
 
+The main point of this blog is:
+
+* there are many data science considerations to be made when working with NLP
+* as much as current tools make it easier to use LLMs out of the box;
+  * performance and relevance will always rely on how these are implemented.
+* there are many techniques on how to optimize LLMs, both in literature and in terms of tools in the ecosystem.
+  * Some may be better suited for a task than others,
+  * and as always experts still need to interprpet the results
+* hypothesis and testing are a core part of developing such models.
+* there is something to be said about the value of experimenting.
+  * Were the tasks we chose for this blog the best options?
+  * Did they give us a clear winner from the models?
+  * Maybe not. And that's what the answer may often be when doing these kind of tests. Doesn't make them any less valuable.
+* Data science & research as a starting point / perspective vs out of the box solutions.
+  * Find the right balance.
+
+
+
+
 some references dump
 
 https://huggingface.co/datasets/reuters21578
